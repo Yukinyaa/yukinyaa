@@ -1,12 +1,14 @@
 # ❤️ from S. Korea :) :kr:
 
-# Weeabo project from the weeabo
- - [JPKRaraoke-helper](https://yukinyaa.github.io/JPKRaraoke-helper/) [Repo:octocat:](https://github.com/Yukinyaa/JPKRaraoke-helper)
- - [Yomitan Hololive Name Dictionary](https://github.com/Yukinyaa/hololive-names-dict/releases/)
 
 # Contributions and Projects
 - [KO/KR Portfolio](https://github.com/Yukinyaa/yukinyaa/blob/main/Portfolio_KO-KR.md)
 - [Find All projects At](https://github.com/Yukinyaa/yukinyaa/blob/main/Projects.md)
+  
+## Weeabo project from the weeabo
+ - [JPKRaraoke-helper](https://yukinyaa.github.io/JPKRaraoke-helper/) [Repo:octocat:](https://github.com/Yukinyaa/JPKRaraoke-helper)
+ - [Yomitan Hololive Name Dictionary](https://github.com/Yukinyaa/hololive-names-dict/releases/)
+
 ## Personal Projects
 - [BigFloat](https://github.com/Yukinyaa/BigFloat) Plugin for Unity, `Unity`, `Unity Package`, `UTF`
 - [UnityFixedPointMath](https://github.com/Yukinyaa/UnityFixedPointMath) Forked from [FixedMath.Net](https://github.com/asik/FixedMath.Net), `Unity`, `Unity Package`, `UTF`
