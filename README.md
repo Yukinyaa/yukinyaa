@@ -1,7 +1,8 @@
 # ❤️ from S. Korea :) :kr:
 
-*not looking for work rn
-
+# Weeabo project from the weeabo
+ - [JPKRaraoke-helper](https://yukinyaa.github.io/JPKRaraoke-helper/) [Repo:octocat:](https://github.com/Yukinyaa/JPKRaraoke-helper)
+ - [Yomitan Hololive Name Dictionary](https://github.com/Yukinyaa/hololive-names-dict/releases/)
 
 # Contributions and Projects
 - [KO/KR Portfolio](https://github.com/Yukinyaa/yukinyaa/blob/main/Portfolio_KO-KR.md)
