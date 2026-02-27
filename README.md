@@ -25,10 +25,12 @@
 # Skills
 
 ## Confident
- - C#
+ - C# / Unity
    + LINQ ❤️
    + Optimization 💕
- - Unity
+ - C++ / Unreal
+   + Material Graph
+   + Engine
    + General Scripting
  - Git (Duh)
    + Merge Conflicts, LFS, etc. You name it.
@@ -43,7 +45,6 @@
  - Linux and Generic server, networks
  - Svelte + NPM
  
- 
 # Brief History of me
 ### School
 - Sunrin Internet HS 2013.3 \~ 2016.3
@@ -52,24 +53,11 @@
 
 ### Club
  - CIEN@CAU 2016.4 \~ 2022
+ - 
+### Employment History
+ - Kong Studios 2024.10 ~ 2026.04
 
 # Find me at...
 - [woong712@BAEKJOON](https://www.acmicpc.net/user/woong712), Code golfing in `C`, `GolfScript`
 - [@ResearchGate](https://www.researchgate.net/profile/Jewoong-Hwang)
 
- 
- 
-<!--
-**Yukinyaa/yukinyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
