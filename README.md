@@ -1,5 +1,12 @@
 # ❤️ from S. Korea :) :kr:
 
+<img width="2780" height="1340" alt="image" src="https://github.com/user-attachments/assets/b55b3a15-9793-4641-b813-fc688e3d5dfb" />
+
+## About my life
+
+ - "Game develeoper" since 2016...
+ - Playing Factorio since 2017
+ - Big Hololistener since 2021🐑🍙
 
 # Contributions and Projects
 - [KO/KR Portfolio](https://github.com/Yukinyaa/yukinyaa/blob/main/Portfolio_KO-KR.md)
@@ -25,27 +32,28 @@
 # Skills
 
 ## Confident
- - C# / Unity
+ - Unity
    + LINQ ❤️
    + Optimization 💕
- - C++ / Unreal
+ - Unreal
    + Material Graph
    + Engine
    + General Scripting
  - Git (Duh)
    + Merge Conflicts, LFS, etc. You name it.
  - :octocat:Github (Duh)
-   + Flow, page
  - Multicore Processing 🌸
-   + Tried with C# and C++, python
+   
 ## Can-do
  - LaTex
  - Deep Learning
    - Torch
  - Linux and Generic server, networks
- - Svelte + NPM
  
 # Brief History of me
+
+### Positions
+- Kong Studios 2021.09 \~ 2026.03
 ### School
 - Sunrin Internet HS 2013.3 \~ 2016.3
 - ChungAng Univ. 2016.3 \~ 2021.8
@@ -55,9 +63,9 @@
  - CIEN@CAU 2016.4 \~ 2022
  - 
 ### Employment History
- - Kong Studios 2024.10 ~ 2026.04
+ - Kong Studios 2024.10 \~ 2026.04
 
 # Find me at...
 - [woong712@BAEKJOON](https://www.acmicpc.net/user/woong712), Code golfing in `C`, `GolfScript`
-- [@ResearchGate](https://www.researchgate.net/profile/Jewoong-Hwang)
-
+- [ResearchGate](https://www.researchgate.net/profile/Jewoong-Hwang)
+- [_Yukinyaa@X](https://x.com/_YukiNyaa), mainly for contact
