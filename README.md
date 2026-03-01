@@ -61,7 +61,7 @@
 
 ### Club
  - CIEN@CAU 2016.4 \~ 2022
- - 
+
 ### Employment History
  - Kong Studios 2024.10 \~ 2026.04
 
