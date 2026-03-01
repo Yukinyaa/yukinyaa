@@ -11,15 +11,13 @@
 # Skills
 
 ## Confident
- - Unity
-   + LINQ ❤️
-   + Optimization 💕
+ 
  - Unreal
-   + Material Graph
    + Engine
-   + General Scripting
+   + General Programming
+   + Material Graph
+ - Unity
  - Git (Duh)
-   + Merge Conflicts, LFS, etc. You name it.
  - :octocat:Github (Duh)
  - Multicore Processing 🌸
    
@@ -54,7 +52,7 @@
 # Brief History of me
 
 ### Positions
-- Kong Studios 2021.09 \~ 2026.03
+- Kong Studios 2023.09 \~ 2026.03
 ### School
 - Sunrin Internet HS 2013.3 \~ 2016.3
 - ChungAng Univ. 2016.3 \~ 2021.8
