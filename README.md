@@ -20,6 +20,9 @@
    + Material Graph
  - Unity
  - Git (Duh)
+ - VR
+   - Avatar/Tracking
+   - Gamedev
  - :octocat:Github (Duh)
  - Multicore Processing 🌸
    
