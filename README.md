@@ -19,22 +19,15 @@
    + General Programming
    + Material Graph
  - Unity
- - Git (Duh)
  - VR
    - Avatar/Tracking
    - Gamedev
- - :octocat:Github (Duh)
+ - Git / Github :octocat: (Duh)
  - Multicore Processing 🌸
-   
-## Can-do
- - LaTex
- - Deep Learning
-   - Torch
- - Linux and Generic server, networks
  
 # Contributions and Projects
 - [KO/KR Portfolio](https://github.com/Yukinyaa/yukinyaa/blob/main/Portfolio_KO-KR.md)
-- [Find All projects At](https://github.com/Yukinyaa/yukinyaa/blob/main/Projects.md)
+- [Find All my projects At](https://github.com/Yukinyaa/yukinyaa/blob/main/Projects.md)
   
 ## Weeabo project from the weeabo
  - [JPKRaraoke-helper](https://yukinyaa.github.io/JPKRaraoke-helper/) [Repo :octocat:](https://github.com/Yukinyaa/JPKRaraoke-helper)
@@ -70,6 +63,6 @@
  - Kong Studios 2024.10 \~ 2026.04
 
 # Find me at...
-- [woong712@BAEKJOON](https://www.acmicpc.net/user/woong712), Code golfing in `C`, `GolfScript`
+- ~~[woong712@BAEKJOON](https://www.acmicpc.net/user/woong712), Code golfing in `C`, `GolfScript`~~
 - [ResearchGate](https://www.researchgate.net/profile/Jewoong-Hwang)
 - [_Yukinyaa@X](https://x.com/_YukiNyaa), mainly for contact
